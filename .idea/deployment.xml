@@ -12,6 +12,17 @@
           </excludedPaths>
         </serverdata>
       </paths>
+      <paths name="TR2_203 (bc1dfc6a-ce00-495d-81af-c10d9c744072)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.WY0A11a3ZN/token_login" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-tr2_203" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-tr2_200" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
     </serverData>
   </component>
 </project>
