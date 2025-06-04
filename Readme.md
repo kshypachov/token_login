@@ -55,5 +55,4 @@ If the password is incorrect, it will be wiped from shared memory by the library
   ```
 
 ## 📄 License
-
-MIT
+[MIT](LICENSE) 
